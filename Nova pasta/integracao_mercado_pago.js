@@ -1,0 +1,1 @@
+Conteúdo simulado de integracao_mercado_pago.js

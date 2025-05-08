@@ -1,0 +1,1 @@
+Conteúdo simulado de verificacao_assinatura.js
