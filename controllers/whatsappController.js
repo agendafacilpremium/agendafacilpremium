@@ -1,0 +1,1 @@
+// Lógica para enviar mensagens automáticas
