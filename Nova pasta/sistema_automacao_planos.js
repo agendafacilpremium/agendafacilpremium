@@ -1,1 +1,0 @@
-Conteúdo simulado de sistema_automacao_planos.js
