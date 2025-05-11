@@ -1,1 +1,0 @@
-Conteúdo simulado de modo_ferias.js
