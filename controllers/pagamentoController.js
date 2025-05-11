@@ -1,1 +1,0 @@
-// Lógica para gerar e receber pagamentos
