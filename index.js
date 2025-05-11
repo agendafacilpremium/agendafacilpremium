@@ -1,14 +1,15 @@
 const express = require('express');
-const app = express();
-const PORT = process.env.PORT || 3000;
+const cors = require('cors');
 require('dotenv').config();
-const testRoute = require('./routes/testRoute');
 
+const app = express();
+app.use(cors());
 app.use(express.json());
-app.use('/api', testRoute);
+
+const PORT = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
-  res.send('API Agenda Fácil Premium funcionando');
+  res.send('API do Agenda Fácil Premium está funcionando.');
 });
 
 app.listen(PORT, () => {
